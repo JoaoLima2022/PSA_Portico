@@ -7,3 +7,4 @@ Este repositório contém todos os ficheiros de código e documentos desenvolvid
 **Positioning_Module_Type_A1SD70.pdf** - Manual do utilizador do modulo de posicionamento do PLC <br />
 **A1S_A2S_A2ASCPU.pdf** - Manual do utilizador do CPU do PLC <br />
 **A1SD61.pdf**- Manual do utilizador da carta de contagem rápida do PLC <br />
+**VisualBasic.zip** - Ficheiro da aplicação responsavel pelo controlo do pórtico, via PLC (Porta de série) <br />
