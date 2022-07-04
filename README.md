@@ -1,5 +1,5 @@
 # PSA_Portico
-Este repositório contém todos os ficheiros de código e documentos desenvolvidos para o projeto da unidade curricular de Projeto de Sistemas de Automação __
+Este repositório contém todos os ficheiros de código e documentos desenvolvidos para o projeto da unidade curricular de Projeto de Sistemas de Automação <br />
 Ladder.zip - Ficheiro com o código em ladder utilizado no controlo via PLC. (Software MX) 
 GrafcetLadder.jpg - Grafcet que exemplifica o principio de funcionamento do programa 
 Encoder.SLDPRT - CAD do acuplador do encoder ao motor (Software SolidWorks) 
