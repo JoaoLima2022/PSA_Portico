@@ -9,3 +9,4 @@ Este repositório contém todos os ficheiros de código e documentos desenvolvid
 **A1SD61.pdf**- Manual do utilizador da carta de contagem rápida do PLC <br />
 **Visual Basic.zip** - Ficheiro da aplicação responsavel pelo controlo do pórtico, via PLC (Porta de série) <br />
 ++RelatórioPSA_TurmaP3_Pórtico.pdf** - Ficheiro relativo ao relatório final da cadeira
+**Arduino.rar** - Pasta onde se encontram dois ficheiros: o "ESP_HTML", destinado ao controlo do pórtico com recurso a uma página WEB, e o "ESP_SerialMonitor", que permite o controlo do pórtico com recurso ao Serial Monitor do Arduino
