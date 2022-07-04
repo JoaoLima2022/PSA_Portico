@@ -8,3 +8,4 @@ Este repositório contém todos os ficheiros de código e documentos desenvolvid
 **A1S_A2S_A2ASCPU.pdf** - Manual do utilizador do CPU do PLC <br />
 **A1SD61.pdf**- Manual do utilizador da carta de contagem rápida do PLC <br />
 **Visual Basic.zip** - Ficheiro da aplicação responsavel pelo controlo do pórtico, via PLC (Porta de série) <br />
+++RelatórioPSA_TurmaP3_Pórtico.pdf** - Ficheiro relativo ao relatório final da cadeira
