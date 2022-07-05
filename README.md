@@ -13,3 +13,4 @@ Este repositório contém todos os ficheiros de código e documentos desenvolvid
 **Visual Basic.zip** - Ficheiro da aplicação responsavel pelo controlo do pórtico, via PLC (Porta de série) <br />
 **RelatórioPSA_TurmaP3_Pórtico.pdf** - Ficheiro relativo ao relatório final da cadeira <br />
 **ESP8266.rar** - Contem duas pastas: Arduino, onde se tem dois ficheiros (ESP_HTML para controlo na WEB, ESP_SerialMonitor para controlo através do Arduino IDE); Páginas, com os dois ficheiros PHP (o ControloPortico3.php é o que deve ser colocado no browser para fazer o controlo pela WEB do pórtico) <br />
+**HELP.rar** - contem ficheiros html, a ser colocados no diretório htdocs, que ajudam a explicar como cada parte da interface WEB funciona (ao se clicar nos ícones de help)
